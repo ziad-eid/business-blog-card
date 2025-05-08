@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="{https://ziad-eid.github.io/business-blog-card/}">
+    <a href="https://ziad-eid.github.io/business-blog-card/">
       Demo
     </a>
   </h3>
