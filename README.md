@@ -1,6 +1,5 @@
 # business-blog-card
-💬 Added responsive testimonial card UI with image, client quote, and custom wave design.
-<h1 align="center">{Your project name} | devChallenges</h1>
+<h1 align="center"> Business Blog Card | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/business-blog-card" target="_blank">Business Blog Card</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
