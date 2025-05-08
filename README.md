@@ -1,4 +1,3 @@
-# business-blog-card
 <h1 align="center"> Business Blog Card | devChallenges</h1>
 
 <div align="center">
@@ -7,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="{https://ziad-eid.github.io/business-blog-card/}">
       Demo
     </a>
     <span> | </span>
