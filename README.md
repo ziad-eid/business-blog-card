@@ -9,14 +9,6 @@
     <a href="{https://ziad-eid.github.io/business-blog-card/}">
       Demo
     </a>
-    <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenge/business-blog-card">
-      Challenge
-    </a>
   </h3>
 </div>
 
